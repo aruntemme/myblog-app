@@ -19,6 +19,7 @@
 - or using conda create a new env with python3.6
 - navigate to the myblog-app folder using cd myblog-app
 - execute pip install -r requirements.txt
+- set DEBUG = True in settings.py
 - Run python manage.py migrate
 - Run python manage.py runserver
 - Open http://127.0.0.1:8000/ in web browser.
